@@ -6,7 +6,7 @@
 
 注意：设置path变量
 
-### 2- 安装配置AndroidStudio
+### 2- 安装配置AndroidSdk
 
 注意：设置path变量(Sdk目录、platform-tools目录、tools目录)
 
