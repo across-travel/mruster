@@ -22,6 +22,7 @@
 $ npm install -g yarn react-native-cli
 $ git clone https://github.com/rustlang-cn/mruster.git
 $ cd mruster
+$ npm install
 $ react-native run-android  //已经设置连接好Android设备或模拟器
 ```
 
